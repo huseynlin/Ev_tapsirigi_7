@@ -1,0 +1,56 @@
+D:\C# lesson\Classroom_rezerv\Classroom_rezerv\bin\Debug\net8.0-windows\Classroom_rezerv.exe
+D:\C# lesson\Classroom_rezerv\Classroom_rezerv\bin\Debug\net8.0-windows\Classroom_rezerv.deps.json
+D:\C# lesson\Classroom_rezerv\Classroom_rezerv\bin\Debug\net8.0-windows\Classroom_rezerv.runtimeconfig.json
+D:\C# lesson\Classroom_rezerv\Classroom_rezerv\bin\Debug\net8.0-windows\Classroom_rezerv.dll
+D:\C# lesson\Classroom_rezerv\Classroom_rezerv\bin\Debug\net8.0-windows\Classroom_rezerv.pdb
+D:\C# lesson\Classroom_rezerv\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.Form1.resources
+D:\C# lesson\Classroom_rezerv\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.csproj.GenerateResource.cache
+D:\C# lesson\Classroom_rezerv\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# lesson\Classroom_rezerv\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.AssemblyInfoInputs.cache
+D:\C# lesson\Classroom_rezerv\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.AssemblyInfo.cs
+D:\C# lesson\Classroom_rezerv\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.csproj.CoreCompileInputs.cache
+D:\C# lesson\Classroom_rezerv\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.dll
+D:\C# lesson\Classroom_rezerv\Classroom_rezerv\obj\Debug\net8.0-windows\refint\Classroom_rezerv.dll
+D:\C# lesson\Classroom_rezerv\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.pdb
+D:\C# lesson\Classroom_rezerv\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.genruntimeconfig.cache
+D:\C# lesson\Classroom_rezerv\Classroom_rezerv\obj\Debug\net8.0-windows\ref\Classroom_rezerv.dll
+C:\Users\nural\Downloads\C# code\Ev_tapsirigi_7\Classroom_rezerv\bin\Debug\net8.0-windows\Classroom_rezerv.exe
+C:\Users\nural\Downloads\C# code\Ev_tapsirigi_7\Classroom_rezerv\bin\Debug\net8.0-windows\Classroom_rezerv.deps.json
+C:\Users\nural\Downloads\C# code\Ev_tapsirigi_7\Classroom_rezerv\bin\Debug\net8.0-windows\Classroom_rezerv.runtimeconfig.json
+C:\Users\nural\Downloads\C# code\Ev_tapsirigi_7\Classroom_rezerv\bin\Debug\net8.0-windows\Classroom_rezerv.dll
+C:\Users\nural\Downloads\C# code\Ev_tapsirigi_7\Classroom_rezerv\bin\Debug\net8.0-windows\Classroom_rezerv.pdb
+C:\Users\nural\Downloads\C# code\Ev_tapsirigi_7\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.Form1.resources
+C:\Users\nural\Downloads\C# code\Ev_tapsirigi_7\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.csproj.GenerateResource.cache
+C:\Users\nural\Downloads\C# code\Ev_tapsirigi_7\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nural\Downloads\C# code\Ev_tapsirigi_7\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.AssemblyInfoInputs.cache
+C:\Users\nural\Downloads\C# code\Ev_tapsirigi_7\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.AssemblyInfo.cs
+C:\Users\nural\Downloads\C# code\Ev_tapsirigi_7\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.csproj.CoreCompileInputs.cache
+C:\Users\nural\Downloads\C# code\Ev_tapsirigi_7\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.sourcelink.json
+C:\Users\nural\Downloads\C# code\Ev_tapsirigi_7\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.dll
+C:\Users\nural\Downloads\C# code\Ev_tapsirigi_7\Classroom_rezerv\obj\Debug\net8.0-windows\refint\Classroom_rezerv.dll
+C:\Users\nural\Downloads\C# code\Ev_tapsirigi_7\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.pdb
+C:\Users\nural\Downloads\C# code\Ev_tapsirigi_7\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.genruntimeconfig.cache
+C:\Users\nural\Downloads\C# code\Ev_tapsirigi_7\Classroom_rezerv\obj\Debug\net8.0-windows\ref\Classroom_rezerv.dll
+C:\Users\nural\Downloads\C# code\Ev_tapsirigi_7\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.Form1.az-Latn-AZ.resources
+C:\Users\nural\Downloads\C# code\Ev_tapsirigi_7\Classroom_rezerv\bin\Debug\net8.0-windows\az-Latn-AZ\Classroom_rezerv.resources.dll
+C:\Users\nural\Downloads\C# code\Ev_tapsirigi_7\Classroom_rezerv\obj\Debug\net8.0-windows\az-Latn-AZ\Classroom_rezerv.resources.dll
+C:\Users\nural\Downloads\C# code zip\Ev_tapsirigi_7\Ev_tapsirigi_7\Classroom_rezerv\bin\Debug\net8.0-windows\Classroom_rezerv.exe
+C:\Users\nural\Downloads\C# code zip\Ev_tapsirigi_7\Ev_tapsirigi_7\Classroom_rezerv\bin\Debug\net8.0-windows\Classroom_rezerv.deps.json
+C:\Users\nural\Downloads\C# code zip\Ev_tapsirigi_7\Ev_tapsirigi_7\Classroom_rezerv\bin\Debug\net8.0-windows\Classroom_rezerv.runtimeconfig.json
+C:\Users\nural\Downloads\C# code zip\Ev_tapsirigi_7\Ev_tapsirigi_7\Classroom_rezerv\bin\Debug\net8.0-windows\Classroom_rezerv.dll
+C:\Users\nural\Downloads\C# code zip\Ev_tapsirigi_7\Ev_tapsirigi_7\Classroom_rezerv\bin\Debug\net8.0-windows\Classroom_rezerv.pdb
+C:\Users\nural\Downloads\C# code zip\Ev_tapsirigi_7\Ev_tapsirigi_7\Classroom_rezerv\bin\Debug\net8.0-windows\az-Latn-AZ\Classroom_rezerv.resources.dll
+C:\Users\nural\Downloads\C# code zip\Ev_tapsirigi_7\Ev_tapsirigi_7\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.Form1.resources
+C:\Users\nural\Downloads\C# code zip\Ev_tapsirigi_7\Ev_tapsirigi_7\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.Form1.az-Latn-AZ.resources
+C:\Users\nural\Downloads\C# code zip\Ev_tapsirigi_7\Ev_tapsirigi_7\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.csproj.GenerateResource.cache
+C:\Users\nural\Downloads\C# code zip\Ev_tapsirigi_7\Ev_tapsirigi_7\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nural\Downloads\C# code zip\Ev_tapsirigi_7\Ev_tapsirigi_7\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.AssemblyInfoInputs.cache
+C:\Users\nural\Downloads\C# code zip\Ev_tapsirigi_7\Ev_tapsirigi_7\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.AssemblyInfo.cs
+C:\Users\nural\Downloads\C# code zip\Ev_tapsirigi_7\Ev_tapsirigi_7\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.csproj.CoreCompileInputs.cache
+C:\Users\nural\Downloads\C# code zip\Ev_tapsirigi_7\Ev_tapsirigi_7\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.sourcelink.json
+C:\Users\nural\Downloads\C# code zip\Ev_tapsirigi_7\Ev_tapsirigi_7\Classroom_rezerv\obj\Debug\net8.0-windows\az-Latn-AZ\Classroom_rezerv.resources.dll
+C:\Users\nural\Downloads\C# code zip\Ev_tapsirigi_7\Ev_tapsirigi_7\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.dll
+C:\Users\nural\Downloads\C# code zip\Ev_tapsirigi_7\Ev_tapsirigi_7\Classroom_rezerv\obj\Debug\net8.0-windows\refint\Classroom_rezerv.dll
+C:\Users\nural\Downloads\C# code zip\Ev_tapsirigi_7\Ev_tapsirigi_7\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.pdb
+C:\Users\nural\Downloads\C# code zip\Ev_tapsirigi_7\Ev_tapsirigi_7\Classroom_rezerv\obj\Debug\net8.0-windows\Classroom_rezerv.genruntimeconfig.cache
+C:\Users\nural\Downloads\C# code zip\Ev_tapsirigi_7\Ev_tapsirigi_7\Classroom_rezerv\obj\Debug\net8.0-windows\ref\Classroom_rezerv.dll

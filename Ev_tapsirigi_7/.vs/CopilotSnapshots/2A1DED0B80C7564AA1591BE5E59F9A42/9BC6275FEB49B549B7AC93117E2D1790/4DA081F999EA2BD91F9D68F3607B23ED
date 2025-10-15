@@ -1,0 +1,154 @@
+﻿using System.Windows.Forms;
+using System.Drawing;
+
+namespace Classroom_rezerv
+{
+    public partial class Form1 : Form
+    {
+        private System.Windows.Forms.Timer timerA = new System.Windows.Forms.Timer();
+        private System.Windows.Forms.Timer timerB = new System.Windows.Forms.Timer();
+        private System.Windows.Forms.Timer timerC = new System.Windows.Forms.Timer();
+        private System.Windows.Forms.Timer timerD = new System.Windows.Forms.Timer();
+        private int remainingA, remainingB, remainingC, remainingD;
+        private Color defaultGroupBoxColor;
+
+        public Form1()
+        {
+            InitializeComponent();
+            timerA.Interval = 1000;
+            timerA.Tick += TimerA_Tick;
+            timerB.Interval = 1000;
+            timerB.Tick += TimerB_Tick;
+            timerC.Interval = 1000;
+            timerC.Tick += TimerC_Tick;
+            timerD.Interval = 1000;
+            timerD.Tick += TimerD_Tick;
+            defaultGroupBoxColor = groupBox1.BackColor;
+        }
+
+        private void Form1_Load(object sender, EventArgs e) { }
+        private void maskedTextBox1_MaskInputRejected(object sender, MaskInputRejectedEventArgs e) { }
+        private void textBox1_TextChanged(object sender, EventArgs e) { }
+        private void groupBox1_Enter(object sender, EventArgs e) { }
+        private void maskedTextBox2_MaskInputRejected(object sender, MaskInputRejectedEventArgs e) { }
+        private void textBox4_TextChanged(object sender, EventArgs e) { }
+        private void textBox3_TextChanged(object sender, EventArgs e) { }
+        private void groupBox2_Enter(object sender, EventArgs e) { }
+        private void maskedTextBox3_MaskInputRejected(object sender, MaskInputRejectedEventArgs e) { }
+        private void textBox6_TextChanged(object sender, EventArgs e) { }
+        private void textBox5_TextChanged(object sender, EventArgs e) { }
+        private void groupBox3_Enter(object sender, EventArgs e) { }
+        private void maskedTextBox4_MaskInputRejected(object sender, MaskInputRejectedEventArgs e) { }
+        private void textBox8_TextChanged(object sender, EventArgs e) { }
+        private void textBox7_TextChanged(object sender, EventArgs e) { }
+        private void groupBox4_Enter(object sender, EventArgs e) { }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (int.TryParse(maskedTextBox1.Text, out int muddet))
+            {
+                remainingA = muddet;
+                textBox2.Text = remainingA.ToString();
+                button1.Enabled = false;
+                groupBox1.BackColor = Color.Red;
+                timerA.Start();
+            }
+        }
+        private void TimerA_Tick(object sender, EventArgs e)
+        {
+            if (remainingA > 0)
+            {
+                remainingA--;
+                textBox2.Text = remainingA.ToString();
+            }
+            if (remainingA == 0)
+            {
+                timerA.Stop();
+                button1.Enabled = true;
+                groupBox1.BackColor = defaultGroupBoxColor;
+                MessageBox.Show("Sinif A üçün rezerv bitdi!", "Rezervasiya", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if (int.TryParse(maskedTextBox2.Text, out int muddet))
+            {
+                remainingB = muddet;
+                textBox3.Text = remainingB.ToString();
+                button2.Enabled = false;
+                groupBox2.BackColor = Color.Red;
+                timerB.Start();
+            }
+        }
+        private void TimerB_Tick(object sender, EventArgs e)
+        {
+            if (remainingB > 0)
+            {
+                remainingB--;
+                textBox3.Text = remainingB.ToString();
+            }
+            if (remainingB == 0)
+            {
+                timerB.Stop();
+                button2.Enabled = true;
+                groupBox2.BackColor = defaultGroupBoxColor;
+                MessageBox.Show("Sinif B üçün rezerv bitdi!", "Rezervasiya", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            if (int.TryParse(maskedTextBox3.Text, out int muddet))
+            {
+                remainingC = muddet;
+                textBox5.Text = remainingC.ToString();
+                button3.Enabled = false;
+                groupBox3.BackColor = Color.Red;
+                timerC.Start();
+            }
+        }
+        private void TimerC_Tick(object sender, EventArgs e)
+        {
+            if (remainingC > 0)
+            {
+                remainingC--;
+                textBox5.Text = remainingC.ToString();
+            }
+            if (remainingC == 0)
+            {
+                timerC.Stop();
+                button3.Enabled = true;
+                groupBox3.BackColor = defaultGroupBoxColor;
+                MessageBox.Show("Sinif C üçün rezerv bitdi!", "Rezervasiya", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            if (int.TryParse(maskedTextBox4.Text, out int muddet))
+            {
+                remainingD = muddet;
+                textBox7.Text = remainingD.ToString();
+                button4.Enabled = false;
+                groupBox4.BackColor = Color.Red;
+                timerD.Start();
+            }
+        }
+        private void TimerD_Tick(object sender, EventArgs e)
+        {
+            if (remainingD > 0)
+            {
+                remainingD--;
+                textBox7.Text = remainingD.ToString();
+            }
+            if (remainingD == 0)
+            {
+                timerD.Stop();
+                button4.Enabled = true;
+                groupBox4.BackColor = defaultGroupBoxColor;
+                MessageBox.Show("Sinif D üçün rezerv bitdi!", "Rezervasiya", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+        }
+    }
+}

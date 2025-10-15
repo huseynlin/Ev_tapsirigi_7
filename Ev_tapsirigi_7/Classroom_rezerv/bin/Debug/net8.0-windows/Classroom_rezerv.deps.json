@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Classroom_rezerv/1.0.0": {
+        "runtime": {
+          "Classroom_rezerv.dll": {}
+        },
+        "resources": {
+          "az-Latn-AZ/Classroom_rezerv.resources.dll": {
+            "locale": "az-Latn-AZ"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Classroom_rezerv/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

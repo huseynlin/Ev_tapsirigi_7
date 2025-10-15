@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nural\\Downloads\\C# code zip\\Ev_tapsirigi_7\\Ev_tapsirigi_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D786B80F-7E37-42CA-AF22-3265B6DD1896}|Classroom_rezerv\\Classroom_rezerv.csproj|c:\\users\\nural\\downloads\\c# code zip\\ev_tapsirigi_7\\ev_tapsirigi_7\\classroom_rezerv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D786B80F-7E37-42CA-AF22-3265B6DD1896}|Classroom_rezerv\\Classroom_rezerv.csproj|solutionrelative:classroom_rezerv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D786B80F-7E37-42CA-AF22-3265B6DD1896}|Classroom_rezerv\\Classroom_rezerv.csproj|c:\\users\\nural\\downloads\\c# code zip\\ev_tapsirigi_7\\ev_tapsirigi_7\\classroom_rezerv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D786B80F-7E37-42CA-AF22-3265B6DD1896}|Classroom_rezerv\\Classroom_rezerv.csproj|solutionrelative:classroom_rezerv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\C# code zip\\Ev_tapsirigi_7\\Ev_tapsirigi_7\\Classroom_rezerv\\Form1.cs",
+              "RelativeDocumentMoniker": "Classroom_rezerv\\Form1.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\C# code zip\\Ev_tapsirigi_7\\Ev_tapsirigi_7\\Classroom_rezerv\\Form1.cs",
+              "RelativeToolTip": "Classroom_rezerv\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T10:45:38.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m - Azerbaycan dili (Latin, Azerbaycan)]",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\C# code zip\\Ev_tapsirigi_7\\Ev_tapsirigi_7\\Classroom_rezerv\\Form1.cs",
+              "RelativeDocumentMoniker": "Classroom_rezerv\\Form1.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\C# code zip\\Ev_tapsirigi_7\\Ev_tapsirigi_7\\Classroom_rezerv\\Form1.cs [Tasar\u0131m - Azerbaycan dili (Latin, Azerbaycan)]",
+              "RelativeToolTip": "Classroom_rezerv\\Form1.cs [Tasar\u0131m - Azerbaycan dili (Latin, Azerbaycan)]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T10:45:03.055Z",
+              "EditorCaption": " [Tasar\u0131m - Azerbaycan dili (Latin, Azerbaycan)]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
